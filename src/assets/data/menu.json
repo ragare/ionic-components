@@ -73,6 +73,11 @@
       "icon": "phone-portrait",
       "name": "Modal",
       "redirectTo": "/modal"
+    },
+    {
+      "icon": "tablet-portrait",
+      "name": "Popover",
+      "redirectTo": "/popover"
     }
   ]
   
