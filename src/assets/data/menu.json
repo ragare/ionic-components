@@ -57,7 +57,7 @@
   {
     "icon": "list",
     "name": "Listas - Sliding",
-    "redirectTo": "/list"
+    "redirectTo": "/lista"
   },
   {
     "icon": "reorder",
